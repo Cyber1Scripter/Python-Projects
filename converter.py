@@ -30,12 +30,11 @@ def animate_logo(stdscr, exit_message=False):
         messages = [
             "Developed by: Cyber_Scripter",
             "Thank You for using!",
-            "Contact Us: 0345-8875352"
         ]
     else:
         messages = [
             "Developed by: Cyber_Scripter",
-            "I'm Shahzaib Shakir, a 19-year-old Cyber Security Expert.",
+            "I'm Cyber Scripter, a 19-year-old Cyber Security Expert.",
             "I specialize in Web Penetration Testing and Network Hacking."
         ]
     
